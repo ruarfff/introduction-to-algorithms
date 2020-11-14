@@ -23,3 +23,8 @@ MS = 437810
 
 1.2-3: What is the smallest value of n such that an algorithm whose running time is 100n2 runs faster than an algorithm whose running time is 2n on the same machine?
 
+14
+
+
+
+
